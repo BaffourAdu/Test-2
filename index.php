@@ -1,1 +1,4 @@
-<?php echo "Hello Baffour Adu @ knutsford";?>
+
+<?php echo "Hello Baffour Adu";?>
+<?php echo "hello this is mike";?>
+<?php phpinfo(); ?>
